@@ -6,5 +6,6 @@ include "applications:album-service"
 
 include "components:albums"
 include "components:blobstore"
+include "components:cf-support"
 include "components:movies"
 include "components:movie-fun-api"

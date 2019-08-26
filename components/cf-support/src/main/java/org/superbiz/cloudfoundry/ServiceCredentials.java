@@ -1,4 +1,4 @@
-package org.superbiz.moviefun.albums;
+package org.superbiz.cloudfoundry;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;

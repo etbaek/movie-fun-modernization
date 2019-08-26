@@ -7,7 +7,6 @@ dependencies {
     compile "org.springframework:spring-web:$springVersion"
     compile "org.springframework:spring-context:$springVersion"
     compile "org.springframework:spring-jdbc:$springVersion"
-    compile "com.fasterxml.jackson.core:jackson-databind:2.8.4"
     compile "com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.7.0"
 
     compile "org.hibernate:hibernate-core:$hibernateVersion"
