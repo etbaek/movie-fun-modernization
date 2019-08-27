@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/album")
+@RequestMapping("/albums")
 public class AlbumsController {
 
     private AlbumsRepository albumsRepository;
